@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varun200418
-- 👀 I’m interested in ... games 
-- 🌱 I’m currently learning ... python
+- 👀 I’m interested in ... games, pshyco stories , murder stories,sapce stories .
+- 🌱 I’m currently learning ... backend web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
